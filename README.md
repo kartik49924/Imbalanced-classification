@@ -1,0 +1,2 @@
+# Imbalanced-classification
+This work is an exploratory project comprising techniques such as modifiedZ score, DBSCAN for robust univariate and multivariate outlier detection. Techniques such as SMOTE, Tomek links are being employed to deal with imbalance. Extensive data visualization is done using matplotlib and seaborn package and  a range of ML and DL algorithms are being tested and tuned along with ensembling to come up with best predictive model.
